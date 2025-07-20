@@ -128,7 +128,16 @@ flutter build ios --release
 
 ## 📸 Screenshots (Optional)
 
-_Add screenshots or screen recordings here to showcase the UI._
+### 🔹 Home Screen
+![Home Screen](screenshots/home1.jpg)
+![Home Screen](screenshots/home2.jpg)
+
+### 🔹 Book Detail Page
+![Book Detail](screenshots/bookdetail1.jpg)
+![Book Detail](screenshots/bookdetail2.jpg)
+
+### 🔹 Favorites Page
+![Favorites Page](screenshots/favorites.jpg)
 
 ---
 
