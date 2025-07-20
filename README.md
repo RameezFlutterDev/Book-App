@@ -133,7 +133,7 @@ flutter build ios --release
 ![Home Screen](screenshots/home2.jpg)
 
 ### 🔹 Book Detail Page
-![Book Detail](screenshots/bookdetail1.jpg)
+![Book Detail](screenshots/bookdetail.jpg)
 ![Book Detail](screenshots/bookdetail2.jpg)
 
 ### 🔹 Favorites Page
