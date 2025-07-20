@@ -126,11 +126,11 @@ flutter build ios --release
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots
 
 ### 🔹 Home Screen
-![Home Screen](screenshots/home1.jpg)
-![Home Screen](screenshots/home2.jpg)
+![Home Screen](screenshots/home1.jpg)![Home Screen](screenshots/home2.jpg)
+
 
 ### 🔹 Book Detail Page
 ![Book Detail](screenshots/bookdetail.jpg)
